@@ -1,6 +1,6 @@
 /**
- * SYST 17796 Project Winter 2019 Base code.
- * Team Members: Raj Patel, Dakshil Chaudhary and Harleen Kaur
+ * SYST 17796 Project Winter 2022 Base code.
+ * TeamMembers: RajPatel, DakshilChaudhary and HarleenKaur
  * Date: February 10, 2022
  */
 package ca.sheridancollege.project;
